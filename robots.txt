@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://isedeuce.github.io/Zjr/sitemap_index.txt
+Sitemap: https://isedeuce.github.io/chH/sitemap_index.txt
+Sitemap: https://isedeuce.github.io/neJ/sitemap_index.txt
+Sitemap: https://isedeuce.github.io/wAm/sitemap_index.txt
